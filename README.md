@@ -30,5 +30,5 @@
 
 ###### 
 
-###### 6\. The page was tested in Google Chrome, Microsoft Edge, and Opera.
+###### 6\. The page was tested in Microsoft Edge and Opera.
 

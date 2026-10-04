@@ -85,7 +85,7 @@ main {
 /* Style the blog post titles */
 
 article h2 {
-    color: #4A5568;
+    color: #276749;
     font-size: 32px;
     font-family: Georgia, "Times New Roman", Times, serif;
     margin-top: 0;
@@ -96,7 +96,7 @@ article h2 {
 
 article h2 + p {
     font-size: 14px;
-    color: #276749;
+    color: #4A5568;
     margin-bottom: 20px;
 }
 
